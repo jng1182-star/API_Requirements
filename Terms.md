@@ -1,0 +1,1 @@
+This application is an internal market research tool designed strictly for internal business use. By using this tool, users agree to utilize the platform in compliance with TikTok's official Developer Terms of Service and all applicable data privacy laws. This tool is not distributed to the public.
